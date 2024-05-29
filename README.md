@@ -15,7 +15,7 @@ O Rastreamento de Cadeia de Suprimentos (RCS) é uma aplicação desenvolvida pa
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/fabriciogastino/SupplyChain.git
     ```
 
 2. Instale as dependências:
@@ -41,15 +41,3 @@ O Rastreamento de Cadeia de Suprimentos (RCS) é uma aplicação desenvolvida pa
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, relatar problemas ou enviar solicitações de pull.
-
-## Autores
-
-- [Nome do Autor](https://github.com/usuario) - Desenvolvedor Principal
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Você pode personalizar este README de acordo com as características específicas do seu projeto, adicionando informações adicionais, como requisitos de sistema, exemplos de uso e capturas de tela. Certifique-se de manter o README atualizado à medida que o projeto evolui e recebe novas contribuições.
