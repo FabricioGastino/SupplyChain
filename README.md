@@ -41,3 +41,7 @@ O Rastreamento de Cadeia de Suprimentos (RCS) é uma aplicação desenvolvida pa
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, relatar problemas ou enviar solicitações de pull.
+
+## Contrato postado Online
+
+https://testnet.bscscan.com/address/0xe182328c94429808f8ac5b5c7e948ccdaeb215b8#code
