@@ -34,9 +34,7 @@ O Rastreamento de Cadeia de Suprimentos (RCS) é uma aplicação desenvolvida pa
 
 1. Acesse a aplicação no seu navegador: [http://localhost:3000](http://localhost:3000)
 
-2. Faça login com suas credenciais.
-
-3. Explore as funcionalidades disponíveis, como rastreamento de produtos e gestão de estoque.
+2. Explore as funcionalidades disponíveis, como rastreamento de produtos e gestão de estoque.
 
 ## Contribuição
 
